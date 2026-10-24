@@ -2,4 +2,4 @@
 
 🤖 Embodied AI Engineer
 
-Interested in **Reinforcement Learning, Robot Manipulation, and Embodied Agent Harness**.
+Interested in **Deep Reinforcement Learning, Robot Manipulation, and Embodied Agent Harness**.
